@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/layout/video_capture.xml",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/layout/video_capture.xml"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/layout/video_playback.xml",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/layout/video_playback.xml"
+    }
+]

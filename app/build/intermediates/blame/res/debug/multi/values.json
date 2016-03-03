@@ -1,0 +1,492 @@
+[
+    {
+        "outputFile": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 37,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 37,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 55,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 55,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 55,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 55,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 202,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 202,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 141,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 141,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 65,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 65,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 41,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 41,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 43,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 43,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 55,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 55,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endColumn": 61,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 61,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 37,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 37,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 43,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 43,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 41,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 41,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 47,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 47,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 45,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 45,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 37,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 37,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endLine": 20,
+                    "endColumn": 101,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endLine": 8,
+                        "endColumn": 101,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 134,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 134,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endLine": 24,
+                    "endColumn": 88,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endLine": 12,
+                        "endColumn": 88,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 127,
+                    "endOffset": 1827
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 127,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1832,
+                    "endColumn": 49,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 49,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endLine": 31,
+                    "endColumn": 8,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endLine": 18,
+                        "endColumn": 8,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endLine": 36,
+                    "endColumn": 8,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endLine": 23,
+                        "endColumn": 8,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endLine": 40,
+                    "endColumn": 8,
+                    "endOffset": 2425
+                },
+                "from": {
+                    "file": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/exploded-aar/VideoCaptureDemo-master1/ffmpeg4android_lib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endLine": 27,
+                        "endColumn": 8,
+                        "endOffset": 1803
+                    }
+                }
+            }
+        ]
+    }
+]

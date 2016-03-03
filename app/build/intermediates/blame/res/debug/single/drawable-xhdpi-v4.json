@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_media_play.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_media_play.png"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_media_stop.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_media_stop.png"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_back.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_menu_back.png"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_delete.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_camera.png",
+        "source": "/Users/dannyofir/Desktop/Android Projects/VideoCaptureDemo-master1/app/src/main/res/drawable-xhdpi/ic_menu_camera.png"
+    }
+]

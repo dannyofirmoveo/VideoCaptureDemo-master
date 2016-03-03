@@ -1,0 +1,22 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.marakana.android.videocapturedemo"
+        minSdkVersion 15
+        targetSdkVersion 15
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(':ffmpeg4android_lib')
+}
